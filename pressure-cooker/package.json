@@ -1,8 +1,8 @@
 {
   "name": "whistlewise",
   "version": "1.0.0",
-  "description": "Pressure cooker whistle counter using Teachable Machine",
-  "main": "Main.html",
+  "description": "WhistleWise — Pressure cooker whistle counter using Teachable Machine",
+  "main": "index.html",
   "scripts": {
     "start": "serve ."
   },
