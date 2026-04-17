@@ -1,0 +1,12 @@
+{
+  "name": "whistlewise",
+  "version": "1.0.0",
+  "description": "Pressure cooker whistle counter using Teachable Machine",
+  "main": "Main.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
