@@ -6,14 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
         if (window.scrollY > 50) {
             navbar.classList.add('scrolled');
         } else {
-            navbar.classList.add('scrolled');
-            navbar.classList.remove('scrolled');
-        }
-
-        // Slightly buggy toggle fixed:
-        if (window.scrollY > 50) {
-            navbar.classList.add('scrolled');
-        } else {
             navbar.classList.remove('scrolled');
         }
     });

@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-benson-paul",
+  "version": "1.1.0",
+  "description": "Benson Paul's Portfolio and WhistleWise AI App",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static site'"
+  },
+  "author": "Benson Paul",
+  "license": "MIT"
+}
